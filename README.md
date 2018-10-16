@@ -1,6 +1,5 @@
 Grove_IR_Matrix_Temperature_sensor_AMG8833
 ==================  
-![AMG8833](https://github.com/linux-downey/Grove_IR_Matrix_Temperature_sensor_AMG8833/blob/master/AMG8833.png)
 
 Introduction of sensor
 ----------------------------  
@@ -12,7 +11,7 @@ Before use:
 =============
 hardware:
 >* A raspberry-PI board to run the example. 
->* A PI-scream to observe the gragh.  
+>* A PI-screen to observe the gragh.  
 
 software:
 >* sudo apt-get update
