@@ -34,7 +34,7 @@ import driver
 import time
 
 PIXEL_NUM                           =64
-DEFAULT_IIC_ADDR                    =0X69
+DEFAULT_IIC_ADDR                    =0X68
 
 POWER_CONTROL_REG_ADDR             =0X00
 RESET_REG_ADDR                     =0X01
