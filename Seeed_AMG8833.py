@@ -20,6 +20,23 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 # THE SOFTWARE.
 
+"""
+`adafruit_amg88xx` - AMG88xx GRID-Eye IR 8x8 IR sensor
+======================================================
+This library supports the use of the AMG88xx in CircuitPython.
+Author(s): Dean Miller, Scott Shawcroft for Adafruit Industries.
+Date: June 2017
+Affiliation: Adafruit Industries
+Implementation Notes
+--------------------
+**Hardware:**
+**Software and Dependencies:**
+* Adafruit CircuitPython: https://github.com/adafruit/circuitpython/releases
+* Adafruit's Register library: https://github.com/adafruit/Adafruit_CircuitPython_Register
+* Adafruit's Bus Device library: https://github.com/adafruit/Adafruit_CircuitPython_BusDevice
+**Notes:**
+"""
+
 
 import driver
 import time
